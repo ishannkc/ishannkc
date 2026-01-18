@@ -3,7 +3,6 @@
 <img align="right" width="250" src="https://github.com/user-attachments/assets/d29b26a0-6686-4f82-bbcb-49d7344ec6c0"/>
 
 
-![](https://github-readme-stats.vercel.app/api?username=ishannkc&theme=aura_dark)
 ![](https://nirzak-streak-stats.vercel.app/?user=ishannkc&theme=aura_dark)
 
 
