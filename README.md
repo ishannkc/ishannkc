@@ -3,7 +3,7 @@
 <img align="right" width="250" src="https://github.com/user-attachments/assets/d29b26a0-6686-4f82-bbcb-49d7344ec6c0"/>
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=ishannkc&theme=aura_dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishannkc&theme=aura_dark)
 
 
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=fff)
